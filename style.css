@@ -1,0 +1,29 @@
+body {
+margin: 0;
+}
+
+#banner1 {
+display: block;
+background-color: #0000FF;
+height: 50px
+witdh: 100%
+}
+
+#menu {
+witdh: 100%
+height: 100px
+position: relative;
+background-color: #0000FF;
+}
+
+#menu u1 {
+float: left;
+}
+
+#banner2 {
+display: block;
+background-color: #0000FF;
+height: 50px
+witdh: 100%
+}
+
